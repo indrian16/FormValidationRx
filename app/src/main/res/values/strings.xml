@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FormValidation</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="register">Register</string>
+    <string name="you_account">You Account</string>
+</resources>

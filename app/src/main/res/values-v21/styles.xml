@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="AppTheme.TIL" parent="TextAppearance.AppCompat">
+
+        <item name="android:textColorHint">@color/colorSecondary</item>
+        <item name="android:colorControlHighlight">@color/colorGreen</item>
+    </style>
+</resources>
